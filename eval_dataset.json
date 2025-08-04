@@ -1,0 +1,42 @@
+[
+  {
+    "consulta": "¿Cómo puedo consultar el saldo de mi tarjeta de débito?",
+    "esperada": "Puedes ingresar a la app o web en la sección 'Tarjetas > Consultar saldo'."
+  },
+  {
+    "consulta": "Perdí mi tarjeta de crédito, ¿cómo la bloqueo?",
+    "esperada": "Puedes bloquearla desde la app en 'Tarjetas > Seguridad > Bloquear tarjeta'."
+  },
+  {
+    "consulta": "¿Cuál es la tasa de interés de los préstamos personales?",
+    "esperada": "Nuestros préstamos personales tienen tasas desde el 1.5% mensual. Puedes ver más en 'Préstamos > Detalles'."
+  },
+  {
+    "consulta": "No puedo pagar la cuota del préstamo este mes, ¿qué hago?",
+    "esperada": "Puedes solicitar un aplazamiento desde la app en 'Préstamos > Opciones de pago'."
+  },
+  {
+    "consulta": "¿Cómo cambio la clave de mi tarjeta de débito?",
+    "esperada": "En la app, ve a 'Tarjetas > Configuración > Cambiar clave'."
+  },
+  {
+    "consulta": "¿Puedo aumentar el cupo de mi tarjeta de crédito?",
+    "esperada": "Sí, puedes hacer la solicitud desde la app en 'Créditos > Solicitar aumento de cupo'."
+  },
+  {
+    "consulta": "¿Dónde veo el historial de movimientos de mi tarjeta?",
+    "esperada": "En la app, selecciona tu tarjeta y luego ve a 'Movimientos'."
+  },
+  {
+    "consulta": "¿Qué pasa si me atraso en un pago del préstamo?",
+    "esperada": "Podrías generar intereses por mora. Te recomendamos contactar soporte o revisar 'Préstamos > Estado'."
+  },
+  {
+    "consulta": "¿Puedo tener dos tarjetas de crédito al mismo tiempo?",
+    "esperada": "Sí, puedes solicitar otra desde la app en 'Tarjetas > Solicitar nueva tarjeta'."
+  },
+  {
+    "consulta": "Quiero cancelar mi tarjeta de débito, ¿cómo lo hago?",
+    "esperada": "Puedes solicitar la cancelación desde la app en 'Tarjetas > Configuración > Cancelar tarjeta'."
+  }
+]
